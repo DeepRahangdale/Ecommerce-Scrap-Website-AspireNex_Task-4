@@ -1,0 +1,110 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.url-input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.analyze-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.analyze-button:hover {
+  background-color: #3e8e41;
+}
+
+.analyze-button:disabled {
+  background-color: #ddd;
+  cursor: default;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+
+.analysis-results {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.analysis-results:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.analysis-results h3 {
+  margin-top: 0;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.analysis-results p {
+  margin: 10px 0;
+  line-height: 1.6;
+  color: #555;
+}
+
+.analysis-results p strong {
+  color: #333;
+}
+
+.analysis-results p + p {
+  margin-top: 10px; 
+}
+
+
+.logout-button {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #333;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.logout-button:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.history-button {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #333;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.history-button:hover {
+  background-color: #333;
+  color: #fff;
+}
