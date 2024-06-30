@@ -7,14 +7,14 @@ This application empowers users to gain insightful analysis of any website using
 ## Features
 
 * **Website Analysis:** Extracts relevant text from a specified website URL.
-* **AI-Powered Insights:** Leverages the Mistral AI model to analyze the website text and generate a comprehensive summary focusing on key product/service aspects.
+* **AI-Powered Insights:** Leverages the Mistral AI model to analyze the website text and generate a comprehensive summary focusing on key Problems product solves, Provide solutions, Target Customers ,Use Cases and Comparison.
 * **Interactive Chatbot:** Enables users to engage in a conversation with an AI chatbot to explore the analysis results in more detail or ask questions.
 * **User Authentication (Firebase):** Ensures secure access and user management through Firebase authentication, supporting both email/password and Google sign-in.
 
 ## Technologies Used
 
 * **Frontend:** React
-* **Backend:** Node.js, Express.js, Puppeteer
+* **Backend:** Node.js, Express.js, Axios, Cheerio
 * **AI Model:** Mistral
 * **Authentication:** Firebase
 
