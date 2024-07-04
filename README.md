@@ -1,4 +1,4 @@
-# Task 4: Watchdog - AI Powered Ecommerce Scrape Website
+## Task 4: Watchdog - AI Powered Ecommerce Scrape Website
 
 - **Description:** 
   This application empowers users to gain insightful analysis of any website Product/Ecommerce using an AI model (Mistral). It extracts key information about the product or service offered, including the problem it solves, the solution provided, target audience, and potential use cases and comparison. Users can then interact with an AI chatbot to delve deeper into the analysis or ask further questions about the website's content.
