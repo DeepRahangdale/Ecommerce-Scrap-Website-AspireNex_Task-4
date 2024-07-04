@@ -1,22 +1,24 @@
-# WatchDog-AI Powered Website Analyzer(AspireNex-Task 4)
+# AspireNex Tasks
 
-## Overview
+Welcome to the AspireNex Tasks repository! This repository contains tasks I've created, including a Personal Portfolio Page and an Ecommerce Scrap Website for AspireNex. These projects showcase my skills in web development and data scraping, leveraging modern technologies to build functional and engaging web applications.
+## WatchDog-AI Powered Website Analyzer(AspireNex-Task 4)
 
-This application empowers users to gain insightful analysis of any Ecommerce/Product website using an AI model (Mistral). It extracts key information about the product or service offered, including the problem it solves, the solution provided, target audience, and potential use cases. Users can then interact with an AI chatbot to delve deeper into the analysis or ask further questions about the website's content.
-<!--### Demo Screen Recording: [**WebWatchdog-AI Powered Website Analyzer**](https://drive.google.com/file/d/1ebSpHwwltUNMXxYUnZWtVrZzlJYm0aW_/view?usp=drive_link) -->
-## Features
+## Task 4: Watchdog - AI Powered Ecommerce Scrape Website
 
-* **Website Analysis:** Extracts relevant text from a specified website URL.
-* **AI-Powered Insights:** Leverages the Mistral AI model to analyze the website text and generate a comprehensive summary focusing on key Problems product solves, Provide solutions, Target Customers ,Use Cases and Comparison.
-* **Interactive Chatbot:** Enables users to engage in a conversation with an AI chatbot to explore the analysis results in more detail or ask questions.
-* **User Authentication (Firebase):** Ensures secure access and user management through Firebase authentication, supporting both email/password and Google sign-in.
+- **Description:** 
+  This application empowers users to gain insightful analysis of any website Product/Ecommerce using an AI model (Mistral). It extracts key information about the product or service offered, including the problem it solves, the solution provided, target audience, and potential use cases and comparison. Users can then interact with an AI chatbot to delve deeper into the analysis or ask further questions about the website's content.
 
-## Technologies Used
+- **Features:**
+  - **Website Analysis:** Extracts relevant text from a specified website URL.
+  - **AI-Powered Insights:** Leverages the Mistral AI model to analyze the website text and generate a comprehensive summary focusing on key product/service aspects.
+  - **Interactive Chatbot:** Enables users to engage in a conversation with an AI chatbot to explore the analysis results in more detail or ask questions.
+  - **User Authentication (Firebase):** Ensures secure access and user management through Firebase authentication, supporting both email/password and Google sign-in.
 
-* **Frontend:** React
-* **Backend:** Node.js, Express.js, Axios, Cheerio
-* **AI Model:** Mistral
-* **Authentication:** Firebase
+- **Technologies Used:**
+  - **Frontend:** React
+  - **Backend:** Node.js, Express.js, Cheerio, Axios
+  - **AI Model:** Mistral
+  - **Authentication:** Firebase
 
 - **Deployment Link: [Live](https://watchdog-aipoweredwebsiteanalyzer.vercel.app/)**
 - **Demo Screen Recording:** [**Watchdog-AI Powered Ecommerce Scrape Website**](https://drive.google.com/file/d/1fWw4zLlm0Ot6fszDtHqv7E_uJ_ZrZxeO/view?usp=drive_link)
