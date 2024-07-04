@@ -69,11 +69,14 @@ REACT_APP_FIREBASE_APP_ID=
 5. Once the website text is fetched, a chatbot window will appear.
 6. Interact with the chatbot to ask questions about the website or the analysis results.
 
-## Contributing
+## Support
+If you encounter any issues or have questions about these projects, please feel free to reach out:
 
-Contributions are encouraged! Feel free to fork the repository, make improvements, and submit pull requests. 
+**Email:** deeprahangdale2003@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/deeprahangdale
 
 ## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-This project is licensed under the MIT License.
+By following these steps, you can run each project locally on your machine. Ensure you navigate to the correct project directory before installing dependencies and starting the development servers. Thank you for exploring the AspireNex Tasks repository!
 
