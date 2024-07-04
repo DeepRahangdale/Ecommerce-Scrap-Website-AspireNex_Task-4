@@ -1,7 +1,6 @@
 # AspireNex Tasks
 
-Welcome to the AspireNex Tasks repository! This repository contains tasks I've created, including a Personal Portfolio Page and an Ecommerce Scrap Website for AspireNex. These projects showcase my skills in web development and data scraping, leveraging modern technologies to build functional and engaging web applications.
-## WatchDog-AI Powered Website Analyzer(AspireNex-Task 4)
+Welcome to the AspireNex Tasks repository! This repository contains tasks I've created, Ecommerce Scrap Website for AspireNex. These projects showcase my skills in web development and data scraping, leveraging modern technologies to build functional and engaging web applications.
 
 ## Task 4: Watchdog - AI Powered Ecommerce Scrape Website
 
