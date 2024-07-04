@@ -22,9 +22,9 @@ Welcome to the AspireNex Tasks repository! This repository contains tasks I've c
 - **Deployment Link: [Live](https://watchdog-aipoweredwebsiteanalyzer.vercel.app/)**
 - **Demo Screen Recording:** [**Watchdog-AI Powered Ecommerce Scrape Website**](https://drive.google.com/file/d/1fWw4zLlm0Ot6fszDtHqv7E_uJ_ZrZxeO/view?usp=drive_link)
 ### Analysis of the Product:
-![Watchdog Screenshot](Screenshots/analysis.png)
+![Watchdog Screenshot](analysis.png)
 ### Chatbot to ask anything related to product:
-![Watchdog Screenshot](Screenshots/chatbot.png)
+![Watchdog Screenshot](chatbot.png)
 
 ## Installation and Setup
 
