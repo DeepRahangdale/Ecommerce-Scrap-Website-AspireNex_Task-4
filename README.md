@@ -18,6 +18,13 @@ This application empowers users to gain insightful analysis of any Ecommerce/Pro
 * **AI Model:** Mistral
 * **Authentication:** Firebase
 
+- **Deployment Link: [Live](https://watchdog-aipoweredwebsiteanalyzer.vercel.app/)**
+- **Demo Screen Recording:** [**Watchdog-AI Powered Ecommerce Scrape Website**](https://drive.google.com/file/d/1fWw4zLlm0Ot6fszDtHqv7E_uJ_ZrZxeO/view?usp=drive_link)
+### Analysis of the Product:
+![Watchdog Screenshot](Screenshots/analysis.png)
+### Chatbot to ask anything related to product:
+![Watchdog Screenshot](Screenshots/chatbot.png)
+
 ## Installation and Setup
 
 **Prerequisites:**
